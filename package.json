@@ -1,0 +1,21 @@
+{
+  "name": "react-with-typescript",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "serve": " http-server -s"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^2.2.4",
+    "http-server": "^0.9.0",
+    "typescript": "^2.0.3",
+    "webpack": "^2.1.0-beta.25"
+  },
+  "dependencies": {
+    "@types/react": "^0.14.37",
+    "@types/react-dom": "^0.14.17",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
