@@ -13,7 +13,7 @@ Note that this is neiter a React tutorial nor a TypeScript tutorial. I want expl
 0. [Stateless Functional Components](#stateless-functional-components)
   0. [without props](#without-props)
   0. [with props](#with-props)
-  0. [reusing props](#resuing-props)
+  0. [reusing props](#resusing-props)
 0. [Stateful Class Components](#stateful-class-components)
 
 ## Setup
