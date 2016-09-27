@@ -497,6 +497,8 @@ See how it behaves in VS Code:
 
 ![vs code docs](./img/docs.gif)
 
+If you want MarkDown support in IntelliSense for VS Code please vote for [this issue](https://github.com/Microsoft/vscode/issues/1920).
+
 ## Stateful Class Components
 
 // **TODO**
