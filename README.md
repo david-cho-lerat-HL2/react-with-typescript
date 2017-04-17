@@ -31,7 +31,7 @@ Create a basic `package.json` like this:
 Install our dependencies like this:
 
 ```bash
-$ npm install --save-dev typescript wepack@beta awesome-typescript-loader
+$ npm install --save-dev typescript webpack@beta awesome-typescript-loader
 ```
 
 We need TypeScript for compiling our TypeScript files to JavaScript (surprising, right?) and we need `webpack@beta` and `awesome-typescript-loader` to _bundle_ our compiled JavaScript files. The last step is needed because TypeScript makes no assumptions about how your compiled JavaScript files are loaded. E.g. if you'd write a Node project based on TypeScript you could just `require` your compiled JavaScript files - no bundling needed. But we want to use React in a browser project. Our browser has no `require` function and I don't want to add a module loader framework here, so we just bundle our files for now.
