@@ -4,7 +4,7 @@
 
 React and TypeScript are awesome technologies. Getting started with both of them can be difficult however. Here are very small examples to make adopting both technologies easier.
 
-Note that this is neiter a React tutorial nor a TypeScript tutorial. I want explain these technologies in depth. I just show you how they can be used together. We'll also use a little bit of WebPack, but again I will not explain WebPack in detail here.
+Note that this is neiter a React tutorial nor a TypeScript tutorial. I won't explain these technologies in depth. I just show you how they can be used together. We'll also use a little bit of WebPack, but again I will not explain WebPack in detail here.
 
 # Table of contents
 
